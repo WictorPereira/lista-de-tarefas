@@ -2,7 +2,7 @@
   "name": "lista-de-tarefas",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://{wictorpereira}.github.io/{lista-de-tarefas}",
+  "homepage": "https://github.com/WictorPereira/lista-de-tarefas",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
