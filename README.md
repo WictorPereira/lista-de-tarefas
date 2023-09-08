@@ -13,3 +13,4 @@ A aplicação de lista de tarefas foi criada como parte de um projeto de aprendi
 - Excluir tarefas individuais.
 - Limpar todas as tarefas concluídas.
 
+Acesse a lista de tarefas: https://lista-de-tarefas-mlycwhh8c-wictorpereira.vercel.app 
